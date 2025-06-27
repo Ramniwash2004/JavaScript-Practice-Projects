@@ -90,7 +90,7 @@ section{
     margin-top: 2rem;
 }
 .home-img img{
-   width: 35vw;
+   width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
    
 }
@@ -166,7 +166,7 @@ span{
 
 }
 .about-img img{
-    width: 35vw;
+    width: 25vw;
 }
 .My-img{
     border-radius: 50%;
